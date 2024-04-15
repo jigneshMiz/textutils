@@ -1,0 +1,12 @@
+/* darkTheme.css */
+body.dark-mode {
+    background-color: rgb(33, 37, 41);
+    color: white;
+  }
+  
+  .dark-mode .accordion-button,
+  .dark-mode .accordion-body {
+    background-color: rgb(48, 52, 57);
+    color: white;
+  }
+  
